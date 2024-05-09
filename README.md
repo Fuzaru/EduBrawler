@@ -12,7 +12,7 @@ Open [EduBrawlers](https://github.com/Fuzaru/EduBrawler/tree/master/EduBrawlers)
 # What is EduBrawlers?
 
 ## ✦ Summary Description
-EduBrawlers is a turn-based game where players can choose and answer different questions. Specifically, mathematical equations that range from Algerba to Differential Calculus. Players with each question answered correctly gain an advantage by diminishing the health (GWA) of the opposing player. The health starts at 1.00 GWA, and if the player reaches 5.00 GWA during the stage's turn, the match will end declaring the last opponent to reach the GWA limit the winner!
+EduBrawlers is a turn-based game where players have 4 options to answer different questions, specifically, mathematical equations that range from Algerba to Differential Calculus. Players with each question answered correctly gain an advantage by diminishing the health (GWA) of the opposing player. The health starts at 1.00 GWA, and if the player reaches 5.00 GWA during the stage's turn, the match will end declaring the last opponent to reach the GWA limit the winner!
 
 ## ✦ Environment
 EduBrawlers is created using 100% Java language with the help of [Libgdx](https://libgdx.com/), a game engine that serves as the game's framework. 
