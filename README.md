@@ -19,24 +19,24 @@ EduBrawlers is created using 100% Java language with the help of [Libgdx](https:
 
 ## Screens 
 
-### Title Screen
+### ✦Title Screen
 ![image](https://github.com/Fuzaru/EduBrawler/assets/159225948/fb1c8af4-1a76-47b8-a22f-b73d329d3131)
 
-### Player Screen (Insert Name & How To Play)
+### ✦Player Screen (Insert Name & How To Play)
 ![image](https://github.com/Fuzaru/EduBrawler/assets/159225948/09f00c3f-2c73-49bd-9abc-5cae836b3760)
 
 ### Game Screen
-#### Player 1 Screen
+#### ✦Player 1 Screen
 ![Screenshot 2024-05-10 040454](https://github.com/Fuzaru/EduBrawler/assets/159225948/e6fcb90d-12ad-470a-b37c-ea997e86b50a)
-#### Player 2 Screen
+#### ✦Player 2 Screen
 ![Screenshot 2024-05-10 040520](https://github.com/Fuzaru/EduBrawler/assets/159225948/e1063d0e-0ad9-412d-a596-58aaedb2f0bb)
-#### End Game Screen
+#### ✦End Game Screen
 ![Screenshot 2024-05-10 040550](https://github.com/Fuzaru/EduBrawler/assets/159225948/e1edca9f-ffd5-4b2d-a4ec-c209c3a5b6a1)
 
 ### Options Screen
-#### From Title Screen
+#### ✦From Title Screen
 ![image](https://github.com/Fuzaru/EduBrawler/assets/159225948/c61e0d43-8a02-4c96-aee1-293a45abcf33)
-#### From In-Game
+#### ✦From In-Game
 ![image](https://github.com/Fuzaru/EduBrawler/assets/159225948/d038ec2c-685f-450f-97e6-80415a7657df)
 
 ## Assets
