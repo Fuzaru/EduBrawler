@@ -32,6 +32,14 @@ EduBrawlers is created using 100% Java language with the help of [Libgdx](https:
 #### End Game Screen
 ![Screenshot 2024-05-10 040550](https://github.com/Fuzaru/EduBrawler/assets/159225948/e1edca9f-ffd5-4b2d-a4ec-c209c3a5b6a1)
 
+### Options Screen
+#### From Title Screen
+![image](https://github.com/Fuzaru/EduBrawler/assets/159225948/c61e0d43-8a02-4c96-aee1-293a45abcf33)
+#### From In-Game
+![image](https://github.com/Fuzaru/EduBrawler/assets/159225948/d038ec2c-685f-450f-97e6-80415a7657df)
+
+
+
 
 
 
