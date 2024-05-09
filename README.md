@@ -1,6 +1,8 @@
 # Introduction
 Welcome to Edubrawlers!
+
 ![GameLogo](https://github.com/Fuzaru/EduBrawler/assets/159225948/e561a659-a53f-488a-8a9b-25ed353472ce)
+
 Edubrawlers aims to enhance the critical thinking and mathematical skills of students, especially in the engineering field who are struggling with their calculus or math-related subjects, in a competitive and fun setting! 
 
 # How to Install & Launch EduBrawlers
